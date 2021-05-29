@@ -1,6 +1,6 @@
 # defense against platforms where python == python3 
 
-PYTHON ?= python
+PYTHON ?= python2
 PYREXC ?= pyrexc 
 PYLINT ?= pylint
 
